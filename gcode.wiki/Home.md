@@ -7,11 +7,9 @@ show you jupyter notebook
 --nest1
 --nest2
 
-
 > citation
 >> text
 > citation
-
 
 command `psql -d $DB_name`
 
