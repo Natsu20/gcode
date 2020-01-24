@@ -1,4 +1,4 @@
 sample
 
 add data
-1234xxx
+1234
