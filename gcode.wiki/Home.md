@@ -1,14 +1,14 @@
 Welcome to the gcode wiki!
 
-show you jupyter notebook
+# Git Tips
+- Create github environment
+```
+$cd  git_dir
+$ git init
+$ git remote add
 
+```
 
-
-
-# jupyter notebook tips
-- .ipynb file convert to .py file
-  jupyter nbconvert \-\-to python ./bin/jupyter.py.ipynb
-  
 
 > citation
 >> text
